@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/CMakeLists.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Equation/main.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Forecast/Matrix.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Forecast/Vector.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/LinearEquationsSolve.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LinearEquationsSolve.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Matrix.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Vector.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main_1.cpp" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
